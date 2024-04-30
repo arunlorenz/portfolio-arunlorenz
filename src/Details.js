@@ -35,28 +35,28 @@ export const logos = {
 
 // Enter your Personal Details here
 export const personalDetails = {
-  name: "Pavan MG",
-  tagline: "I build things for web",
+  name: "ARUNKUMAR N S",
+  tagline: "Cloud Computing | SDE",
   img: profile,
-  about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
+  about: `I am a Pre final year student majoring in the stream of ECE`,
 };
 
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
-  linkdein: "https://www.linkedin.com/",
-  github: "https://www.github.com/",
+  linkdein: "https://www.linkedin.com/arunkumar-ns",
+  github: "https://www.github.com/arunlorenz",
   twitter: "https://twitter.com/",
-  instagram: "https://www.instagram.com/",
+  instagram: "https://www.instagram.com/arunlorenz",
 };
 
 // Enter your Work Experience here
 export const workDetails = [
   {
-    Position: "Frontend Web Developer",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Full Time",
-    Duration: "Sep 2021 - Dec 2021",
+    Position: "Internet of Things intern",
+    Company: `SD Pro Solutions`,
+    Location: "Trichy",
+    Type: "Internship",
+    Duration: "Feb 2023",
   },
   {
     Position: "Internship",
@@ -85,10 +85,10 @@ export const eduDetails = [
   },
   {
     Position: "Bachelor in Electronics & Communication",
-    Company: `Your College Name here`,
-    Location: "Bengaluru",
+    Company: `Karpagam Institute of Technology`,
+    Location: "Coimbatore",
     Type: "Full Time",
-    Duration: "Aug 2020 - Present",
+    Duration: "Aug 2021 - May 2025",
   },
 ];
 
@@ -113,13 +113,12 @@ export const techStackDetails = {
 // Enter your Project Details here
 export const projectDetails = [
   {
-    title: "Project title 1",
+    title: "Air Quality Monitoring System",
     image: projectImage1,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
+    description: `It monitors air quality level of the environment and alerts users when it goes critical`,
+    techstack: "Embedded C, Arduino Uno",
     previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    githubLink: "https://github.com/arunlorenz/AirQualityMonitoring",
   },
   {
     title: "Project title 2",
@@ -170,6 +169,6 @@ project lorem ipsum generator for dummy content`,
 
 // Enter your Contact Details here
 export const contactDetails = {
-  email: "hi@example.com",
+  email: "arunkumarns543@gmail.com",
   phone: "+91 12345 67890",
 };
