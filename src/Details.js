@@ -115,6 +115,30 @@ export const projectDetails = [
     techstack: "AWS EC2, Django",
     previewLink: "https://google.com",
     githubLink: "https://github.com/arunlorenz/MachX.git",
+  },
+  {
+    title: "Air Quality Monitoring System",
+    image: projectImage4,
+    description: `It monitors air quality level of the environment and alerts users when it goes critical`,
+    techstack: "Embedded C, Arduino Uno",
+    previewLink: "https://google.com",
+    githubLink: "https://github.com/arunlorenz/AirQualityMonitoring",
+  },
+  {
+    title: "Personal Cloud Storage using AWS EC2",
+    image: projectImage5,
+    description: `A simple private cloud storage solution deployed on EC2 instance using opensource software`,
+    techstack: "AWS EC2, Owncloud",
+    previewLink: "https://google.com",
+    githubLink: "https://github.com/arunlorenz/Personal-Cloud-using-AWS.git",
+  },
+  {
+    title: "MachX - Online coding platform",
+    image: projectImage6,
+    description: 'An online coding platform that lets users engage in coding battles' ,
+    techstack: "AWS EC2, Django",
+    previewLink: "https://google.com",
+    githubLink: "https://github.com/arunlorenz/MachX.git",
   }
 ];
 
