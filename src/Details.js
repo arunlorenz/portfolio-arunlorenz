@@ -43,9 +43,9 @@ export const personalDetails = {
 
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
-  linkdein: "https://www.linkedin.com/arunkumar-ns",
+  linkdein: "https://www.linkedin.com/in/arunkumar-ns",
   github: "https://www.github.com/arunlorenz",
-  twitter: "https://twitter.com/",
+  twitter: "https://twitter.com/arunlorenz",
   instagram: "https://www.instagram.com/arunlorenz",
 };
 
@@ -57,34 +57,14 @@ export const workDetails = [
     Location: "Trichy",
     Type: "Internship",
     Duration: "Feb 2023",
-  },
-  {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
-  },
-  {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
-  },
+  }
 ];
 
 // Enter your Education Details here
 export const eduDetails = [
+
   {
-    Position: "Frontend Development",
-    Company: "Udemy, YouTube, Google, Medium",
-    Location: "Online",
-    Type: "Full Time",
-    Duration: "Jan 2022 - Present",
-  },
-  {
-    Position: "Bachelor in Electronics & Communication",
+    Position: "Bachelor in Electronics & Communication Engineering",
     Company: `Karpagam Institute of Technology`,
     Location: "Coimbatore",
     Type: "Full Time",
@@ -121,54 +101,25 @@ export const projectDetails = [
     githubLink: "https://github.com/arunlorenz/AirQualityMonitoring",
   },
   {
-    title: "Project title 2",
+    title: "Personal Cloud Storage using AWS EC2",
     image: projectImage2,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
+    description: `A simple private cloud storage solution deployed on EC2 instance using opensource software`,
+    techstack: "AWS EC2, Owncloud",
     previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    githubLink: "https://github.com/arunlorenz/Personal-Cloud-using-AWS.git",
   },
   {
-    title: "Project title 3",
+    title: "MachX - Online coding platform",
     image: projectImage3,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
+    description: 'An online coding platform that lets users engage in coding battles' ,
+    techstack: "AWS EC2, Django",
     previewLink: "https://google.com",
-    githubLink: "https://github.com",
-  },
-  {
-    title: "Project title 4",
-    image: projectImage4,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
-  },
-  {
-    title: "Project title 5",
-    image: projectImage5,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
-  },
-  {
-    title: "Project title 6",
-    image: projectImage6,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
-  },
+    githubLink: "https://github.com/arunlorenz/MachX.git",
+  }
 ];
 
 // Enter your Contact Details here
 export const contactDetails = {
   email: "arunkumarns543@gmail.com",
-  phone: "+91 12345 67890",
+  phone: "+91 73396 16476",
 };
