@@ -43,7 +43,7 @@ export const personalDetails = {
 
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
-  linkdein: "https://www.linkedin.com/arunkumar-ns",
+  linkdein: "https://www.linkedin.com/in/arunkumar-ns",
   github: "https://www.github.com/arunlorenz",
   twitter: "https://twitter.com/",
   instagram: "https://www.instagram.com/arunlorenz",
