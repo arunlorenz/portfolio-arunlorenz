@@ -56,6 +56,10 @@ function Home() {
       );
   }, []);
 
+  const redirectToResume = () => {
+    window.location.href = 'https://drive.google.com/file/d/1hwBQSy5Y6lG4vfdrQDfBuKdkEk7US6PI/view?usp=sharing';
+  };
+
   return (
     <main className="container mx-auto max-width section md:flex justify-between items-center">
       <div>
@@ -80,6 +84,9 @@ function Home() {
       </div>
       <div className="mt-5 md:mt-0">
         <img ref={myimageref} className="w-1/2 md:ml-auto" src={img} alt="Arunkumar N S" />
+        <button onClick={redirectToResume} className="mt-3 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+          Resume
+        </button>
       </div>
     </main>
   );
